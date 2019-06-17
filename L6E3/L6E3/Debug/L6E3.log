@@ -1,0 +1,5 @@
+﻿  Origem.cpp
+C:\Users\flavi\OneDrive\Área de Trabalho\L6E3\L6E3\Origem.cpp(32,13): warning C4326:  tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+C:\Users\flavi\OneDrive\Área de Trabalho\L6E3\L6E3\Origem.cpp(34,25): warning C4101:  'pAux': variável local não referenciada
+C:\Users\flavi\OneDrive\Área de Trabalho\L6E3\L6E3\Origem.cpp(36,17): warning C4101:  'n': variável local não referenciada
+  L6E3.vcxproj -> C:\Users\flavi\OneDrive\Área de Trabalho\L6E3\Debug\L6E3.exe

@@ -1,0 +1,4 @@
+﻿  Origem.cpp
+i:\3°sem\estrutura de dados\arvores\lista 6 - flavio\l6e3\l6e3\origem.cpp(49): warning C4326: return type of 'main' should be 'int' instead of 'void'
+i:\3°sem\estrutura de dados\arvores\lista 6 - flavio\l6e3\l6e3\origem.cpp(53): warning C4101: 'n': unreferenced local variable
+  L6E3.vcxproj -> I:\3°SEM\Estrutura de Dados\Arvores\LISTA 6 - FLAVIO\L6E3\x64\Debug\L6E3.exe
